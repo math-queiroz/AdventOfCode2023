@@ -1,7 +1,5 @@
-.vscode
-.DS_Store
-target/
+input
 /target
-fetch*
+fetch.exe
+fetch
 Fetch.toml
-Rustfmt.toml
