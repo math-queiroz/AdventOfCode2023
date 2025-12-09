@@ -1,0 +1,3 @@
+[submodule "input"]
+	path = input
+	url = ssh://git@github.com/math-queiroz/AdventOfCode2023Input
